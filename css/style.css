@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    color: black
+    ;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(95, 61, 11);
+    color: azure;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul {
+    background-color: rgb(212, 155, 68);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: azure;
+    text-decoration: none;
+}
+
+body header h1{
+    margin: 0;
+    font-size: 100px;
+    height: 100px;
+    width: 100%;
+}
+div section h1{
+    text-align: center;
+}
